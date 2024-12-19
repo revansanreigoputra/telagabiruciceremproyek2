@@ -45,7 +45,7 @@ class CheckoutPage extends Component
             'kabupaten' => 'required|max:255',
             'kode_pos' => 'required|numeric|digits_between:5,10',
             'provinsi' => 'required|max:255',
-            'metode_pembayaran' => 'required|in:transfer,cod',
+            'metode_pembayaran' => 'required|in:tf,cod',
         ]);
 
         // Simpan data ke tabel `individus`
