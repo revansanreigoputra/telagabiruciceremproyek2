@@ -1,10 +1,10 @@
 <x-mail::message>
-# Booking Tike Sukses!
+# Booking Tiket Sukses!
 
 Thank You Broh. No Booking kamu adalah: {{ $individu->id }}.
 
 <x-mail::button :url="$url">
-    Liat Booking
+    Lihat Booking
 </x-mail::button>
 
 Terimakasih,<br>

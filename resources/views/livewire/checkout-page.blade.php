@@ -166,9 +166,9 @@
 					</div>
                 </div>
 				<button type="submit" class="bg-green-500 mt-4 w-1/2 p-2 text-center rounded-lg text-lg text-white hover:bg-green-600 mx-auto block" wire:loading.attr="disabled">
-					Reservasi Sekarang
+					<span wire:lading.remove>Reservasi Sekarang</span>
+					<span wire:loading>Sedang Memproses...</span>			
 				</button>
-				<div wire:loading class="text-center text-gray-500">Sedang Memproses...</div>			
 			</div>
 			<!-- End Select Payment Method -->
 		</div>
