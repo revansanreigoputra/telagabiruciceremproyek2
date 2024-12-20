@@ -1,6 +1,6 @@
 <div class="w-full max-w-[85rem] py-10 px-4 sm:px-6 lg:px-8 mx-auto shadow-xl mb-5">
     <h1 class="text-2xl font-bold text-gray-800 dark:text-white mb-4">
-        Checkout
+        Biodata
     </h1>
 	<form wire:submit.prevent='placeOrder'>
 		<div class="grid grid-cols-12 gap-4">
@@ -9,7 +9,7 @@
 				<div class="bg-white rounded-xl shadow p-4 sm:p-7 dark:bg-slate-900">
 					<div class="mb-6">
 						<h2 class="text-xl font-bold text-gray-800 dark:text-white mb-2">
-							Alamat Pemesan
+							Alamat Penanggung jawab
 						</h2>
 						<div class="grid grid-cols-2 gap-4">
 							<div>
@@ -109,7 +109,7 @@
 			<div class="lg:col-span-6 col-span-12">
 				<div class="bg-white rounded-xl shadow p-4 sm:p-7 dark:bg-slate-900">
 					<div class="text-lg font-semibold mb-4">
-						Select Payment Method
+						Pilih Metode Pembayaran
 					</div>
 					<ul class="grid w-full gap-6 md:grid-cols-2">
 						<li>

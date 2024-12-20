@@ -1,9 +1,9 @@
 <div class="max-w-full">
   <div class="flex justify-center space-x-8 mt-4 overflow-x-auto whitespace-nowrap w-full">
     <a href="#" class="text-gray-500 hover:text-gray-700">All</a>
-    <a href="#" class="text-gray-500 hover:text-gray-700">Ayunan Ganda</a>
+    <a href="#" class="text-gray-500 hover:text-gray-700">Ayunan Tunggal</a>
     <a href="#" class="text-blue-600 hover:text-blue-800 relative">
-        Ayunan Tunggal
+        Ayunan Ganda
         <div class="absolute left-0 right-0 h-0.5 bg-blue-600 mt-1"></div>
     </a>
     <a href="#" class="text-gray-500 hover:text-gray-700">Ayunan Iplik</a>
@@ -15,8 +15,8 @@
 
 
   <div class="bg-white">
-      <div class="mx-auto px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
-          <h2 class="text-2xl font-bold tracking-tight text-gray-900">Wkwkwkwkwkwk</h2>
+      <div class="mx-auto px-4 py-16 sm:px-6 sm:py-15 lg:max-w-7xl lg:px-8">
+          <h2 class="text-2xl font-semibold tracking-tight text-gray-900">Momen terbaik kami melalui koleksi foto yang mengabadikan cerita dan kenangan istimewa.</h2>
 
           <div class="mt-6 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
               <div class="group relative">

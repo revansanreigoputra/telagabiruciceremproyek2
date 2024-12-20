@@ -73,13 +73,13 @@
                             </select>
                         </div>
                         <!-- Checkbox -->
-                        <div class="mt-4">
+                        {{-- <div class="mt-4">
                             <label class="inline-flex items-center">
                                 <input name="syarat_dan_ketentuan" type="checkbox" 
                                        class="form-checkbox rounded text-blue-600 focus:ring-blue-500 focus:ring-2 focus:ring-opacity-50">
                                 <span class="ml-2 text-sm text-gray-700">Saya setuju dengan <a href="#" class="text-blue-500 hover:underline">Syarat dan Ketentuan</a> serta Kebijakan Privasi Telaga Biru Cicerem</span>
                             </label>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
                 <div class="md:w-1/4">

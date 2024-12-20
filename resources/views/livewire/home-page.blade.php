@@ -416,7 +416,7 @@
   <!-- End FAQ -->
 
     {{-- costumer riview --}}
-    <section class="py-12 pt-10 font-poppins dark:bg-gray-800 rounded-lg mt-5z">
+    {{-- <section class="py-12 pt-10 font-poppins dark:bg-gray-800 rounded-lg mt-5z">
       <div class="max-w-6xl px-4 py-6 mx-auto lg:py-4 md:px-6">
         <div class="max-w-xl mx-auto">
           <div class="text-center ">
@@ -761,5 +761,5 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> --}}
 </div>

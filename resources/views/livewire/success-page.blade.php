@@ -77,7 +77,17 @@
         <a href="/my-orders" class="w-full text-center px-4 py-2 bg-blue-500 rounded-md text-gray-50 md:w-auto dark:text-gray-300 hover:bg-blue-600 dark:hover:bg-gray-700 dark:bg-gray-800">
           Liat Reservasi Saya
         </a>
+        <button onclick="printPDF()" class="w-full text-center px-4 py-2 bg-green-500 rounded-md text-gray-50 md:w-auto dark:text-gray-300 hover:bg-green-600 dark:hover:bg-gray-700 dark:bg-gray-800">
+          Print PDF
+        </button>
       </div>
     </div>
   </div>
 </section>
+<script>
+  function printPDF() {
+    // Menggunakan fitur print bawaan browser
+    window.print();
+  }
+</script>
+

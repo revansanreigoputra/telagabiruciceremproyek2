@@ -14,7 +14,7 @@
         <figure>
           <img class="w-full object-cover rounded-xl" src="{{ asset('img/3.jpg') }}" alt="Blog Image">
           <figcaption class="mt-3 text-sm text-center text-gray-500 dark:text-neutral-500">
-            A woman sitting at a table.
+            by : <i>@cinematictraveling</i>
           </figcaption>
         </figure>
   
